@@ -39,7 +39,8 @@ This database helps answer key business questions using SQL.
 
 ## ER Diagram
 
-![ER Diagram](screenshots/tourism_er_diagram.png)
+<img width="655" height="668" alt="tourism_er_diagram" src="https://github.com/user-attachments/assets/670c88aa-d2bd-4702-aa18-918e06d2cc6a" />
+
 
 ---
 
