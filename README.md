@@ -69,10 +69,17 @@ This database helps answer key business questions using SQL.
 
 ## Project Folder Structure
 Tourism-Hotel-Booking-MySQL/
+
 │
+
 ├── schema.sql
+
 ├── data.sql
+
 ├── analysis_queries.sql
+
 ├── screenshots/
+
 │ └── tourism_er_diagram.png
+
 └── README.md
